@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="376" started-at="2023-07-25T09:41:15Z" finished-at="2023-07-25T09:41:16Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="376" started-at="2023-07-25T09:41:15Z" finished-at="2023-07-25T09:41:16Z">
+      <class name="vikash.BDDFramework.Practise">
+        <test-method status="PASS" signature="practiceTest1(java.lang.String, java.lang.String)[pri:0, instance:vikash.BDDFramework.Practise@73ad2d6]" name="practiceTest1" duration-ms="2" started-at="2023-07-25T09:41:16Z" data-provider="data-provider" finished-at="2023-07-25T09:41:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vikash]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practiceTest1 -->
+        <test-method status="PASS" signature="practiceTest1(java.lang.String, java.lang.String)[pri:0, instance:vikash.BDDFramework.Practise@73ad2d6]" name="practiceTest1" duration-ms="4" started-at="2023-07-25T09:41:16Z" data-provider="data-provider" finished-at="2023-07-25T09:41:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vikash]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practiceTest1 -->
+        <test-method status="PASS" signature="practiceTest2(java.lang.String, java.lang.String)[pri:0, instance:vikash.BDDFramework.Practise@73ad2d6]" name="practiceTest2" duration-ms="3" started-at="2023-07-25T09:41:16Z" data-provider="data-provider" finished-at="2023-07-25T09:41:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vikash]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practiceTest2 -->
+        <test-method status="PASS" signature="practiceTest2(java.lang.String, java.lang.String)[pri:0, instance:vikash.BDDFramework.Practise@73ad2d6]" name="practiceTest2" duration-ms="3" started-at="2023-07-25T09:41:16Z" data-provider="data-provider" finished-at="2023-07-25T09:41:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vikash]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practiceTest2 -->
+      </class> <!-- vikash.BDDFramework.Practise -->
+      <class name="vikash.BDDFramework.StarNumber">
+        <test-method status="PASS" signature="starNumber1()[pri:0, instance:vikash.BDDFramework.StarNumber@3fee9989]" name="starNumber1" duration-ms="15" started-at="2023-07-25T09:41:16Z" finished-at="2023-07-25T09:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- starNumber1 -->
+      </class> <!-- vikash.BDDFramework.StarNumber -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
