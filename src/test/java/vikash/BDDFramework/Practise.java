@@ -39,7 +39,7 @@ public void practiceTest2(String a,String b) {
 		System.out.println("String a" + a);
 		System.out.println("String b" + b);
 		System.out.println("String a" + a);
-		System.out.println("String b" + b);
+		System.out.println("Chnage in master branch" + b);
 		
 		System.out.println("Checking the Maven variable passed " + System.getProperty("val1") );
 
